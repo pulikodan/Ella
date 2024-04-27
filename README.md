@@ -1,2 +1,2 @@
 # Ella
-Information Retrieval Assistant
+It ia a very basic information retrival systems 
