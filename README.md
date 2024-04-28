@@ -12,7 +12,7 @@ This are the main fetures of the system
 
 
 ### Prerequisites 
-This applications mainly use Langchain and streamlit 
+This applications built suning  Langchain and streamlit, and you need to install following packages to run this solution
 ```pyhton
 Flask==2.2.5
 langchain==0.1.16
@@ -27,12 +27,13 @@ Requests==2.31.0
 st_pages==0.4.5
 streamlit==1.32.0
 ```
-Ther are two services you have to run to use this, one for UI and other for the backend.
-Inoder to run the backed service, plese go to src folder and run it from the terminal
+Ther are two services you need to run to use this, one for UI and other for the backend.
+
+Inoder to run the backed service, please go to 'src' folder and run it from the terminal
 ```pyhton
 python3 indexAndRetrive.py
 ```
-Inoder to run the UI service, plese go to dashboared folder and run it from the terminal
+Inoder to run the UI service, plese go to 'dashboared' folder and run it from the terminal
 ```pyhton
 streamlit run dashboard.py
 ```
