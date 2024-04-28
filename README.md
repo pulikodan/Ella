@@ -5,3 +5,6 @@ It ia a very basic information retrival systems with following features
 ## Getting Started
 streamlit run dashboard.py
 python3 indexAndRetrive.py
+## Todo
+streamlit run dashboard.py
+python3 indexAndRetrive.py
