@@ -37,6 +37,8 @@ Inoder to run the UI service, plese go to 'dashboared' folder and run it from th
 ```pyhton
 streamlit run dashboard.py
 ```
+After starting this two services, you will be able to use the application using the link 
+
 ## Todo
 1) Add support for other LLMs and embedding models
 2) Add reranker
