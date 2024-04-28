@@ -1,7 +1,10 @@
 # Ella- An Information Retrival System
-It ia a very basic information retrival systems with following features   
-  1)Index the douments   
-  2)A basic Chat interface for question aswering   
+It ia a very basic information retrival systems based of Retrival Augemented Generation and it is built using LangChain.
+  
+This are the main fetures of the system 
+
+  1) Ability to index new documnts in fifle by file mode 
+  2) A chat interface where user can query    
 
 
 
