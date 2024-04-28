@@ -26,6 +26,8 @@ Requests==2.31.0
 st_pages==0.4.5
 streamlit==1.32.0
 ```
+Before starting the application, please update the config.cfg file with your OpenAI API key.
+
 There are two services you need to operate in order to use this application: one for the user interface and another for the backend.
 
 To run the backend service, please navigate to the 'src' folder and execute it from the terminal.
