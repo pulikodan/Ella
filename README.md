@@ -3,7 +3,7 @@ It ia a very basic information retrival systems with following features
   1)Index the douments 
   2)A basic Chat interface for question aswering 
 
-##Requirements 
+## Requirements 
 This applications mainly use Langchain and streamlit 
 ```pyhton
 Flask==2.2.5
