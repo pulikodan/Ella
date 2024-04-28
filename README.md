@@ -38,5 +38,9 @@ Inoder to run the UI service, plese go to 'dashboared' folder and run it from th
 streamlit run dashboard.py
 ```
 ## Todo
-streamlit run dashboard.py
-python3 indexAndRetrive.py
+1) Add support for other LLMs and embedding models
+2) Add reranker
+3) Improve the UI
+4) Add suport for deleting the files from the knowledgebase
+5) Add additional models to support effective retrivel from charts, tables and mathematicl expressions
+6) Add OCR support 
