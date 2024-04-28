@@ -1,18 +1,17 @@
 # Ella- An Information Retrival System
-It ia a very basic information retrival systems based of Retrival Augemented Generation and it is built using LangChain.
-  
-This are the main fetures of the system 
+This is a straightforward information retrieval application developed with Retrieval Augmented Generation technology, utilizing LangChain.
 
-  1) Ability to index new documnts in fifle by file mode 
-  2) A chat interface where user can query    
+Key features of the application include:
 
+    1 The ability to index new documents individually.
+    2 A chat interface that enables user queries.
 
 
 ## Getting Started guide
 
 
 ### Prerequisites 
-This applications built suning  Langchain and streamlit, and you need to install following packages to run this solution
+This application is built using LangChain and Streamlit. To run this solution, you will need to install the following packages:
 ```pyhton
 Flask==2.2.5
 langchain==0.1.16
@@ -27,22 +26,22 @@ Requests==2.31.0
 st_pages==0.4.5
 streamlit==1.32.0
 ```
-Ther are two services you need to run to use this, one for UI and other for the backend.
+There are two services you need to operate in order to use this application: one for the user interface and another for the backend.
 
-Inoder to run the backed service, please go to 'src' folder and run it from the terminal
+To run the backend service, please navigate to the 'src' folder and execute it from the terminal.
 ```pyhton
 python3 indexAndRetrive.py
 ```
-Inoder to run the UI service, plese go to 'dashboared' folder and run it from the terminal
+To run the UI service, please go to the 'dashboard' folder and run it from the terminal.
 ```pyhton
 streamlit run dashboard.py
 ```
-After starting this two services, you will be able to use the application using the link 
+After starting these two services, you will be able to access the application using the  link http://localhost:8501.
 
 ## Todo
-1) Add support for other LLMs and embedding models
-2) Add reranker
-3) Improve the UI
-4) Add suport for deleting the files from the knowledgebase
-5) Add additional models to support effective retrivel from charts, tables and mathematicl expressions
-6) Add OCR support 
+    1 Integrate support for additional large language models (LLMs) and embedding models.
+    2 Implement a reranking feature to enhance result accuracy.
+    3 Enhance the user interface for better usability.
+    4 Implement functionality to delete files from the knowledge base.
+    5 Introduce additional models to improve retrieval from charts, tables, and mathematical expressions.
+    6 Add Optical Character Recognition (OCR) support to process text from images.
