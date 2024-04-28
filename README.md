@@ -3,11 +3,11 @@ This is a straightforward information retrieval application developed with Retri
 
 Key features of the application include:
 
-    1 The ability to index new documents individually.
-    2 A chat interface that enables user queries.
+1 The ability to index new documents individually.
+2 A chat interface that enables user queries.
 
 
-## Getting Started guide
+## Getting Started Guide
 
 
 ### Prerequisites 
