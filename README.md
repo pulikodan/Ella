@@ -1,4 +1,4 @@
-# Ella- An Information Retrival System
+# Ella- An Information Retrieval System
 This is a straightforward information retrieval application developed with Retrieval Augmented Generation technology, utilizing LangChain.
 
 Key features of the application include:
