@@ -23,7 +23,7 @@ pandas==2.2.2
 Requests==2.31.0
 st_pages==0.4.5
 streamlit==1.32.0
-
+```
 Ther are two services you have to run to use this, one for UI and other for the backend.
 Inoder to run the backed service, plese go to src folder and run it from the terminal
 ```pyhton
